@@ -1,2 +1,2 @@
-# repository_for_coursera
-HI there, this is my repo. for coursera courses
+# Repository for Coursera
+Hi there, this is my repo. for coursera courses
